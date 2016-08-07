@@ -1,0 +1,27 @@
+#footer {
+    background-color: lightgrey;
+    height:50px;
+}
+
+.headline {
+    font-family: cursive;
+    margin:10px 10px 150px 10px;
+}
+
+.jumbotron {
+    background-image: url(Assets/YodaLandsonDagobah.jpg);
+    background-size: cover;
+    min-height: 500px;
+}
+
+.jumbotron .container {
+    color: white;
+}
+
+.thumbnail {
+    border-radius: 50%;
+}
+
+.video {
+    text-align: center;
+}
