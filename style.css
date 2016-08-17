@@ -9,7 +9,7 @@
 }
 
 .jumbotron {
-    background-image: url(https://dl.dropboxusercontent.com/u/11272741/Tribute/YodaLandsonDagobah.jpg);
+    background-image: url("https://dl.dropboxusercontent.com/u/11272741/Tribute/YodaLandsonDagobah.jpg");
     background-size: cover;
     min-height: 500px;
 }
@@ -18,7 +18,7 @@
     color: white;
 }
 
-.thumbnail {
+.profile {
     border-radius: 50%;
 }
 
@@ -37,4 +37,12 @@
 h2 {
     padding-top: 15px;
     padding-bottom: 15px;
+}
+
+h1 {
+  font-family: 'Audiowide', cursive;s
+}
+
+.quote {
+  font-family: 'Indie Flower, cursive';
 }
